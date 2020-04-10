@@ -97,11 +97,13 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My personal webpage"
   location         : "Bangalore, India"
-  email            :
+  email            : 
+  github           : "HimanUK" 
+  linkedin         : "Himanshu Kankal"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto: hukankal@gmail.com
+      # url: mailto: hukankal@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -279,3 +281,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
