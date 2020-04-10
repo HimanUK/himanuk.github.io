@@ -5,6 +5,8 @@ permalink: /rlblog/
 author_profile: true
 ---
 
+I intend to write at least one blog post every week wherein I cover some aspect of RL. I wish to stress on building a strong intuition before delving deep into the mathematics of the subject.
+
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
