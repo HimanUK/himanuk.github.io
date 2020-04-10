@@ -1,6 +1,8 @@
 ---
+layout: archive
 title: "RL Blog"
 permalink: /rlblog/
+author_profile: true
 ---
 
 This will contain the blog posts for RL
