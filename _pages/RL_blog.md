@@ -5,8 +5,6 @@ permalink: /rlblog/
 author_profile: true
 ---
 
-This will contain the blog posts for RL
-
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
