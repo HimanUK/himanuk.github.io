@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Himanshu Kankal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/Dp_insta.jpg"
   bio              : "My personal webpage"
   location         : "Bangalore, India"
   email            : 
