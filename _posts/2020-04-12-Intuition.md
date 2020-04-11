@@ -1,17 +1,13 @@
 ---
-title: "Motivation and Intuition"
+title: "Reinforcement Learning: Motivation"
 date: 2020-04-11
-tags: [Reinforcement Learning]
-excerpt: "1st post"
+excerpt: "Machine learning, 3 parts, recent successes, etc."
 mathjax: "true"
 ---
 
 # Motivation
 
-Machine Learning algorithms are a set of algorithms which allow a system to learn from data without being explicitly programmed. It can be crudely divided into 3 sub parts:
-* Supervised Learning
-* Unsupervised Learning
-* Reinforcement Learning
+Reinforcement Learning(RL) techniques are a set of 
 
 ## H2 Heading
 
