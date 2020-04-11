@@ -1,5 +1,5 @@
 ---
-title: "RL Blog: 1st post"
+title: "Reference post"
 date: 2020-04-11
 tags: [Reinforcement Learning]
 excerpt: "1st post"
