@@ -8,6 +8,8 @@ excerpt: "Blog on Reinforcement Learning"
 
 I intend to write at least one blog post every week wherein I cover some aspect of RL. I wish to stress on building a strong intuition before delving deep into the mathematics of the subject.
 
+Also, I've majorly learned about RL from [Dr. L.A. Prashanth](http://www.cse.iitm.ac.in/~prashla/). He happens to be my Masters guide as well.  
+
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
