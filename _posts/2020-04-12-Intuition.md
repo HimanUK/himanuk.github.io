@@ -5,9 +5,9 @@ excerpt: "Machine learning, 3 parts, recent successes, etc."
 mathjax: "true"
 ---
 
-## Machine Learning
+## Where does RL fit into Machine Learning?
 
-Machine Learning(ML) techniques enable the agent to learn from data/experience without being explicitly programmed to do so. It crudely encompasses 3 parts:
+Machine Learning(ML) techniques enable the computer to learn from data/experience without being explicitly programmed to do so. It crudely encompasses 3 parts:
 * Supervised Learning - The algorithm usually assumes a model to learn and historical data. The data is used to tune the parameters of the model so that the model can mimic the historical performance given novel data. It usually requires labelled data.
 * Unsupervised Learning - Works with unlabelled data. It tries to find patterns in the historical data.  
 * Reinforcment Learning - Works with a simulator where a data point can be sampled at will. Uses scalar feedback signals 
