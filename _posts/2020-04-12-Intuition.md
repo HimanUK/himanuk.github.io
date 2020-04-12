@@ -8,9 +8,12 @@ mathjax: "true"
 ## Machine Learning
 
 Machine Learning(ML) techniques enable the agent to learn from data/experience without being explicitly programmed to do so. It crudely encompasses 3 parts:
-* Supervised Learning - The algorithm usually assumes a model to learn and historical data. The data is used to tune the parameters of the model so that the model can mimic the historical performance given novel data.
-* Unsupervised Learning
-* Reinforcment Learning
+* Supervised Learning - The algorithm usually assumes a model to learn and historical data. The data is used to tune the parameters of the model so that the model can mimic the historical performance given novel data. It usually requires labelled data.
+* Unsupervised Learning - Works with unlabelled data. It tries to find patterns in the historical data.  
+* Reinforcment Learning - Works with a simulator where a data point can be sampled at will. Uses scalar feedback signals 
+
+## RL as a more generalized setting
+
 
 ## Intuition
 
