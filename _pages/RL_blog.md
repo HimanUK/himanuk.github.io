@@ -5,7 +5,6 @@ permalink: /rlblog/
 author_profile: true
 excerpt: "Blog on Reinforcement Learning"
 ---
-1
 
 {% include group-by-array collection=site.posts field="tags" %}
 
