@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning: Motivation"
-date: 2020-04-15
+date: 2020-04-12
 excerpt: "Machine learning, 3 parts, recent successes, etc."
 mathjax: "true"
 ---
@@ -10,10 +10,12 @@ mathjax: "true"
 Machine Learning(ML) techniques enable the computer to learn from data/experience without being explicitly programmed to do so. It crudely encompasses 3 parts:
 * Supervised Learning - The algorithm usually assumes a model to learn and historical data. The data is used to tune the parameters of the model so that the model can mimic the historical performance given novel data. It usually requires labelled data.
 * Unsupervised Learning - Works with unlabelled data. It tries to find patterns in the historical data.  
-* Reinforcment Learning - Works with a simulator where a data point can be sampled at will. Uses scalar feedback signals 
+* Reinforcment Learning - Works with a simulator where a data point can be sampled at will. Uses scalar signals as feedback to the algorithms. 
 
-## RL as a more generalized setting
+## Highlighting the uniqueness
 
+RL in my opinion, is more generalized than supervised or unsupervised learning.
+Reward signals over loss function
 
 ## Intuition
 
