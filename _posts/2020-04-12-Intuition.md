@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning: Motivation"
-date: 2020-04-11
+date: 2020-04-15
 excerpt: "Machine learning, 3 parts, recent successes, etc."
 mathjax: "true"
 ---
