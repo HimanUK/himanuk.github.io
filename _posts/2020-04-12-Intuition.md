@@ -3,7 +3,7 @@ title: "Reinforcement Learning: Motivation"
 date: 2020-04-12
 excerpt: "Machine learning, 3 parts, recent successes, etc."
 mathjax: "true"
-comments: true
+comments: "true"
 ---
 
 ## Where does RL fit into Machine Learning?
