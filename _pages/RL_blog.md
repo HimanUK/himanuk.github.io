@@ -12,7 +12,6 @@ Also, I've majorly learned about RL from [Dr. L.A. Prashanth](http://www.cse.iit
 
 For now, I am designing it in a way that people with a basic understanding undergraduate level mathematics shouldnt face a hard time. Such subjects include calculus, linear algebra, probability and statistics, set theory, etc. As and when I get time, I'll add posts explaining these basics concepts. However, a lot of better resources exist wherein mathematics required for RL is succintly explained.
 
-{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
