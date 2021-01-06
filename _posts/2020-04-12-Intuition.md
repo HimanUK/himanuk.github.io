@@ -7,6 +7,9 @@ mathjax: "true"
 comments: "true"
 ---
 
+## Machine Learning 
+Traditional programming has wandered around giving program specific tasks to do in specific conditions. For example - programming a ceiling fan to stop when it does not sense anyone in the room. However, as we move from a simple to a "smart" world, the fan needs to check the temperature, occupancy, wind speed, electricity consumption, voltage supply, etc before deciding the speed at which it wants to operate. As one can realise, explicitly thinking about every input condition and defining an appropirate response becomes a very difficult task. 
+
 ## Where does RL fit into Machine Learning?
 
 Machine Learning(ML) techniques enable the computer to learn from data/experience without being explicitly programmed to do so. It crudely encompasses 3 parts:
